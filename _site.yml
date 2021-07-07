@@ -1,7 +1,7 @@
-name: "BookNMe"
-title: "My Website"
+name: "Book&Me"
+title: "Book&Me"
 description: |
-  My Website
+  Book&Me
 output_dir: "docs"
 navbar:
   right:

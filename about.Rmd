@@ -2,6 +2,8 @@
 title: "About"
 description: |
   Some additional details about the website
+  
+email: \email{bookandmefoundation@gmail.com}
 ---
 
 ```{r setup, include=FALSE}
