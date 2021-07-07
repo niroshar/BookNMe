@@ -2,7 +2,7 @@
 title: "Welcome to Book&Me Website!"
 navbar:
   logo:
-    image: logo.JPEG
+    image: images/logo.JPEG
     
 description: |
   **_Mission:_** 
@@ -15,7 +15,6 @@ site: distill::distill_website
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
 
 ```
 

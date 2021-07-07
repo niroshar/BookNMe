@@ -4,6 +4,8 @@ description: |
   Book&Me
 output_dir: "docs"
 navbar:
+  logo:
+    image: images/logo.jpg
   right:
     - text: "Home"
       href: index.html
