@@ -13,4 +13,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### History of Book&Me
 
-The **Book&Me** program was initiated in 2008 by Mr. Mahinda Dasanayaka, XXX. Initially, 
+
+The "**Book&Me**",  or in Sinhala "පොතයි මමයි" is  a  program created and carried out by Mahinda Dasanayaka who makes reading material available to rural kids who lack library facilities. His mobile library is a box full of books attached to his motorcycle. Initially covering a single geographical area is now expanded into several others. Based on its popularly and his inability to expand the mobile library, he has now set up "junction libraries" or "හන්දිය පුස්තකාල" where books are kept in a bin at junctions for kids to borrow read and return. Adults too are now use his services. If you google Mahinda Dasanayaka,  you will find more information of this program. 
