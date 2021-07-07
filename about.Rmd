@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  The **Book&Me** program was initiated in 2008 by Mr. Mahinda Dasanayaka, XXX. 
+  *Read this page to learn more about the **Book&Me** program!*
   
 email: \email{bookandmefoundation@gmail.com}
 ---
@@ -10,3 +10,7 @@ email: \email{bookandmefoundation@gmail.com}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+### History of Book&Me
+
+The **Book&Me** program was initiated in 2008 by Mr. Mahinda Dasanayaka, XXX. Initially, 
