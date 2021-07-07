@@ -1,9 +1,6 @@
 ---
 title: "Welcome to Book&Me Website!"
-navbar:
-  logo:
-    image: images/logo.JPEG
-    
+
 description: |
   **_Mission:_** 
   
@@ -18,3 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+<!-- ![](images/logo.jpg){width=70%} -->
+
+```{r, echo=FALSE, out.width="70%", fig.align="center"}
+knitr::include_graphics("images/logo.jpg")
+```

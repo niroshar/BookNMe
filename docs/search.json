@@ -3,18 +3,26 @@
     {
       "path": "about.html",
       "title": "About",
-      "description": "Some additional details about the website\n",
+      "description": "The **Book&Me** program was initiated in 2008 by Mr. Mahinda Dasanayaka, XXX. \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-07T16:18:01-05:00"
+      "last_modified": "2021-07-07T17:21:27-05:00"
     },
     {
       "path": "index.html",
       "title": "Welcome to Book&Me Website!",
       "description": "**_Mission:_** \n\nEvery kid is an asset. We are helping them to unleash their true potential into the service and delight of the mankind and universe. Our focus is not only make them competent but make them care for others and environment. \nWe expect them to be honest, creatiive problem solvers, proud of themselves as human and ready to face the world confidently.\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-07T16:22:54-05:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-07T17:21:29-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Previous Projects",
+      "description": "This page includes the previous projects completed by Mr.Mahinda Dasanayaka within the last two decades. He sacrificed his valuable time on the students in rural areas in Sri Lanka regardless of racial background, religon etc.",
+      "author": [],
+      "contents": "\r\nDescription\r\n2008 - 2015\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-07T17:21:30-05:00"
     }
   ],
   "collections": []

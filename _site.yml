@@ -1,14 +1,17 @@
-name: "Book&Me"
-title: "Book&Me"
+name: " "
+title: " "
 description: |
   Book&Me
 output_dir: "docs"
+theme: mytheme.css
 navbar:
   logo:
     image: images/logo.jpg
   right:
     - text: "Home"
       href: index.html
+    - text: "Projects"
+      href: projects.html
     - text: "About"
       href: about.html
 output: distill::distill_article
