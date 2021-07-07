@@ -1,7 +1,13 @@
 ---
 title: "Welcome to Book&Me Website!"
+navbar:
+  logo:
+    image: logo.JPEG
+    
 description: |
-  **Mission:** Every kid is an asset. We are helping them to unleash their true potential into the service and delight of the mankind and universe. Our focus is not only make them competent but make them care for others and environment. 
+  **_Mission:_** 
+  
+  Every kid is an asset. We are helping them to unleash their true potential into the service and delight of the mankind and universe. Our focus is not only make them competent but make them care for others and environment. 
   We expect them to be honest, creatiive problem solvers, proud of themselves as human and ready to face the world confidently.
   
 site: distill::distill_website
